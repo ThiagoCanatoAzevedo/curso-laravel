@@ -4,7 +4,10 @@ Este repositório contém o código desenvolvido durante o curso introdutório a
 
 ## Captura de Tela
 
-![Página Inicial](caminho/para/sua/imagem.png)
+![Página Mostra Eventos](/public/mostra_eventos_1.png)
+![Página Criar Evento](/public/criar_evento_2.png)
+![Página Meus Eventos](/public/meus_eventos_3.png)
+
 
 ## Tecnologias Utilizadas
 
